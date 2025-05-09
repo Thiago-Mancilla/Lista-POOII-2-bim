@@ -16,8 +16,8 @@ public class Aluno {
     }
 
     public Aluno(){
-        this.nome = "Rodriguinho";
-        this.matricula = 50230574;
+        this.nome = "Thiago";
+        this.matricula = 50230335;
         this.notas[0] = 10.0f;
         this.notas[1] = 9.0f;
     }
