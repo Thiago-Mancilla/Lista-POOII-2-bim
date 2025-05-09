@@ -10,7 +10,7 @@ public class Pessoa {
     }
     
     public Pessoa(){
-        this.nome = "Rodriguinho";
+        this.nome = "Thiago";
     }
     
     public void ajustaDataDeNascimento(int dia, int mes, int ano) {
