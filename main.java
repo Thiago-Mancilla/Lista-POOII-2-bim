@@ -52,7 +52,7 @@ public class main {
         System.out.println("\n\n");
 
         //EX 10
-        Livro livro = new Livro("star wars", "rodriguete",14,true);
+        Livro livro = new Livro("star wars", "thigas",14,true);
         livro.dados();
         System.out.println("\n\n");
 
