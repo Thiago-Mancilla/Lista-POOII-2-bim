@@ -13,7 +13,7 @@ public class Livro {
 
     public Livro() {
         setAutor("livros");
-        setAutor("Rodriguete");
+        setAutor("Mancilla");
         setNumPaginas(30);
         setStatus(true);
     }
